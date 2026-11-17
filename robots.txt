@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nyikahe.github.io/sitemap.xml
